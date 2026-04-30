@@ -3,4 +3,6 @@ Hello Keith
 Hello Alex
 Hello Tarrence
 My son Keith II
+Added a very important change.
+Added a cool feature.
 Hey, we fixed the bug!
